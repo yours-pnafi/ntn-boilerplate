@@ -1,6 +1,6 @@
 ---
-title: Time to add your own content
-description: Remove all of the .md-files in the /content folder and go at it!
+title: PNAFI Blog
+description: PNAFI Demo Blog
 ---
 
 ## Sit liquentibus sinu verbis et spatiarer laedar
